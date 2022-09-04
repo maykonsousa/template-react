@@ -1,0 +1,4 @@
+node_modules
+vite.config.ts
+jest.config.js
+coverage
